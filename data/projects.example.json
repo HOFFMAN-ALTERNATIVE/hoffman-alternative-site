@@ -1,0 +1,9 @@
+[
+  {
+    "title": "Example project",
+    "summary": "One line on what it is.",
+    "url": "https://example.com",
+    "image": "images/example.webp",
+    "featured": false
+  }
+]

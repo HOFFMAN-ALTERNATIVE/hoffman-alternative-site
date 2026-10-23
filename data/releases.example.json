@@ -1,0 +1,8 @@
+[
+  {
+    "title": "Example release",
+    "type": "single",
+    "date": "2026-01-01",
+    "links": { "platform": "https://example.com/release" }
+  }
+]
